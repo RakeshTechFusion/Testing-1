@@ -1,0 +1,18 @@
+.btn{
+    padding:10px;
+    border-radius:5px ;
+    color:"whitesmoke";
+    margin-top:5px;
+}
+.borderd{
+    border:1px solid gray;
+}
+.ghost{
+    border:none;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: aqua;
+}

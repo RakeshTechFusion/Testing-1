@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "andrew-codes.cypress-snippets",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "TabNine.tabnine-vscode"
+    ]
+}
